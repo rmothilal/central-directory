@@ -49,3 +49,9 @@ Dockerfile.old
 # npm
 package-lock.json
 .history
+
+# --------------- #
+# IntelliJ #
+# --------------- #
+.idea/
+**/*.iml
