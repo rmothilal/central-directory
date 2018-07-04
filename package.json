@@ -1,6 +1,6 @@
 {
   "name": "@mojaloop/central-directory",
-  "version": "2.0.0-snapshot",
+  "version": "2.0.0-release",
   "description": "Central directory hosted by a scheme to retrieve users and start transfer process.",
   "license": "Apache-2.0",
   "private": true,
